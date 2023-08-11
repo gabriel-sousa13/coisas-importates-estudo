@@ -2,7 +2,7 @@
 Uma lista de coisas para estudar/dicas/canais/conteudos sugeridas.
 
 Roadmap para estudos:
-1. Algorítmos e estruta de dados na linguagem em Python
+1. Algorítmos e estrutura de dados na linguagem em Python
 
     - pesquisar o que é um algoritmo [referencia aqui](https://rockcontent.com/br/blog/algoritmo/)
         - faça um resumo em um caderno sobre o que você entendeu sobre esse tópico
